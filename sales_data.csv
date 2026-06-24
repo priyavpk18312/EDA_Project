@@ -1,0 +1,11 @@
+Product,Category,Region,Sales,Profit
+Laptop,Electronics,North,50000,10000
+Mobile,Electronics,South,40000,8000
+TV,Electronics,East,35000,7000
+Chair,Furniture,North,15000,3000
+Table,Furniture,South,20000,4000
+Sofa,Furniture,East,30000,6000
+Laptop,Electronics,West,55000,11000
+Mobile,Electronics,West,45000,9000
+Chair,Furniture,West,18000,3500
+TV,Electronics,North,38000,7500
