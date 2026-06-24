@@ -28,7 +28,7 @@ This project analyzes sales data using Python. Statistical summaries and visuali
 
 ### Correlation Heatmap
 
-![Heatmap](correlation_heatmap.png)
+![Heatmap](correlation_heatmap.png.png)
 
 ## Project Files
 
